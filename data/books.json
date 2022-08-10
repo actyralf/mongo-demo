@@ -1,0 +1,22 @@
+[
+  {
+    "title": "The Old Man and the Sea",
+    "publishingYear": 1952,
+    "authorId": "INSERT 'ObjectId(authorId)' here"
+  },
+  {
+    "title": "Der Prozess",
+    "publishingYear": 1925,
+    "authorId": "INSERT 'ObjectId(authorId)' here"
+  },
+  {
+    "title": "Die Verwandlung",
+    "publishingYear": 1915,
+    "authorId": "INSERT 'ObjectId(authorId)' here"
+  },
+  {
+    "title": "Romeo and Juliet",
+    "publishingYear": 1597,
+    "authorId": "INSERT 'ObjectId(authorId)' here"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Franz Kafka",
+    "country": "Czech Republic",
+    "yearOfBirth": 1883
+  },
+  {
+    "name": "William Shakespeare",
+    "country": "England",
+    "yearOfBirth": 1564
+  },
+  {
+    "name": "Earnest Hemingway",
+    "country": "USA",
+    "yearOfBirth": 1899
+  }
+]

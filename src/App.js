@@ -1,3 +1,7 @@
 export default function App() {
-  return <div>App goes here</div>;
+  return (
+    <div>
+      API only project: <a href="/api/books">Books route</a>
+    </div>
+  );
 }
